@@ -1,11 +1,16 @@
 {
   "name": "git-extended",
   "version": "1.0.0",
-  "description": "",
+  "description": "Git repo for educational purposes",
   "main": "index.js",
+  "repository": "https://github.com/kanechaeva/git-extended/tree/main",
+    "author": "kanechaeva <kirusya1234@gmail.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "config": {
+        "commitizen": {
+            "path": "cz-conventional-changelog"},
   "keywords": [],
   "author": "",
   "license": "ISC"
